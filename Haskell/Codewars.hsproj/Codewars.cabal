@@ -14,4 +14,5 @@ Executable Codewars
       containers -any
   other-modules:
       PartialWordSearching.Partial
+      UnfinishedLoop.Loop
       ToLeetSpeak.ToLeetSpeak
