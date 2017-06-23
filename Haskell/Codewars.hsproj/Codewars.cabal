@@ -13,4 +13,5 @@ Executable Codewars
       base -any,
       containers -any
   other-modules:
+      PartialWordSearching.Partial
       ToLeetSpeak.ToLeetSpeak
