@@ -14,8 +14,9 @@ Executable Codewars
       split -any,
       containers -any
   other-modules:
+      ToLeetSpeak.ToLeetSpeak
       PartialWordSearching.Partial
       UnfinishedLoop.Loop
       HighestAndLowest.Hal
-      ToLeetSpeak.ToLeetSpeak
       ReplaceAllItems.Replace
+      BoundlessSum.Sum
