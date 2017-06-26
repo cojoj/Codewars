@@ -11,8 +11,10 @@ Executable Codewars
   buildable: True
   build-depends:
       base -any,
+      split -any,
       containers -any
   other-modules:
       PartialWordSearching.Partial
       UnfinishedLoop.Loop
+      HighestAndLowest.Hal
       ToLeetSpeak.ToLeetSpeak
