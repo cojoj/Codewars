@@ -1,3 +1,5 @@
+import Foundation
+
 // https://www.codewars.com/kata/simple-multiplication/
 
 func simpleMultiplication(_ num: Int) -> Int {
