@@ -15,6 +15,7 @@ Executable Codewars
       containers -any
   other-modules:
       ToLeetSpeak.ToLeetSpeak
+      MiddleElement.Find
       PartialWordSearching.Partial
       UnfinishedLoop.Loop
       HighestAndLowest.Hal
