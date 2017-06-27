@@ -1,0 +1,2 @@
+-- Haskell Playground 1.0
+head $ sortBy (\ x y -> length x `compare` length y) $ words "bitcoin take over the world maybe who knows perhaps"
