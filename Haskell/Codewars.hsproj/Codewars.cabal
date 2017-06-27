@@ -16,12 +16,13 @@ Executable Codewars
   other-modules:
       ToLeetSpeak.ToLeetSpeak
       MiddleElement.Find
-      ShortestWord.Shortest
       VowelCount.Vowels
-      OddNumbers.Sum
-      PartialWordSearching.Partial
-      HighestAndLowest.Hal
       UnfinishedLoop.Loop
+      SumRecursively.Sum
+      HighestAndLowest.Hal
       ReplaceAllItems.Replace
       MiddleCharacter.Middle
       BoundlessSum.Sum
+      ShortestWord.Shortest
+      OddNumbers.Sum
+      PartialWordSearching.Partial
