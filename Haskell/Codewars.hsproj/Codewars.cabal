@@ -11,16 +11,17 @@ Executable Codewars
   buildable: True
   build-depends:
       base -any,
-      split -any,
-      containers -any
+      containers -any,
+      split -any
   other-modules:
       ToLeetSpeak.ToLeetSpeak
       MiddleElement.Find
       TwiceLinear.Twice
       VowelCount.Vowels
       UnfinishedLoop.Loop
-      SumRecursively.Sum
+      CountingDuplicates.Dupes
       HighestAndLowest.Hal
+      SumRecursively.Sum
       ReplaceAllItems.Replace
       MiddleCharacter.Middle
       BoundlessSum.Sum
