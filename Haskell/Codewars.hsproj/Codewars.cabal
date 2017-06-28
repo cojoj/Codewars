@@ -16,6 +16,7 @@ Executable Codewars
   other-modules:
       ToLeetSpeak.ToLeetSpeak
       MiddleElement.Find
+      TwiceLinear.Twice
       VowelCount.Vowels
       UnfinishedLoop.Loop
       SumRecursively.Sum
