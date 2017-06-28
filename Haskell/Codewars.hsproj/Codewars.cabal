@@ -24,6 +24,7 @@ Executable Codewars
       ReplaceAllItems.Replace
       MiddleCharacter.Middle
       BoundlessSum.Sum
+      Fibonacci.Fib
       ShortestWord.Shortest
       HighestScoringWord.Highest
       OddNumbers.Sum
