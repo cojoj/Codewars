@@ -4,8 +4,8 @@ cabal-version: 1.11
 build-type: Simple
 license: AllRightsReserved
 stability: experimental
-x-ghc-framework-version: 7.10.3-6.29-1
-x-last-ide-version: HfM1.4.0
+x-ghc-framework-version: 8.0.2-8.9-3
+x-last-ide-version: HfM1.5.1
 Executable Codewars
   main-is: Main.hs
   buildable: True
@@ -16,18 +16,24 @@ Executable Codewars
   other-modules:
       ToLeetSpeak.ToLeetSpeak
       MiddleElement.Find
-      TwiceLinear.Twice
-      VowelCount.Vowels
-      UnfinishedLoop.Loop
       CountingDuplicates.Dupes
-      HighestAndLowest.Hal
-      SumRecursively.Sum
-      ReplaceAllItems.Replace
-      MiddleCharacter.Middle
-      BoundlessSum.Sum
       Fibonacci.Fib
       ShortestWord.Shortest
-      HighestScoringWord.Highest
+      SumOddCubes.Sum
+      TwiceLinear.Twice
+      UnfinishedLoop.Loop
+      Grasshopper.NameCombiner
       OddNumbers.Sum
       PartialWordSearching.Partial
-      SumOddCubes.Sum
+      WhatsUpNext.LazyNext
+      MiddleCharacter.Middle
+      LostWithout.LostWithout
+      HighestScoringWord.Highest
+      Barycenter.Barycenter
+      ReplaceAllItems.Replace
+      ReverseList.ReverseRecursively
+      Watermelon.Watermelon
+      SumRecursively.Sum
+      BoundlessSum.Sum
+      HighestAndLowest.Hal
+      VowelCount.Vowels

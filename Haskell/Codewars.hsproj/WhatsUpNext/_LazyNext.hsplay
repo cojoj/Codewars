@@ -1,0 +1,5 @@
+-- Haskell Playground 1.0
+next 7 []
+next 'a' ""
+next 7 [1..10000]
+next 'd' "abc"
