@@ -14,25 +14,29 @@ Executable Codewars
       containers -any,
       split -any
   other-modules:
-      ToLeetSpeak.ToLeetSpeak
-      MiddleElement.Find
       CountingDuplicates.Dupes
       Fibonacci.Fib
       ShortestWord.Shortest
-      SumOddCubes.Sum
       TwiceLinear.Twice
       UnfinishedLoop.Loop
-      Grasshopper.NameCombiner
-      OddNumbers.Sum
       PartialWordSearching.Partial
-      WhatsUpNext.LazyNext
+      MakeLower.MakeLower
+      AppleTurnover.AppleTurnover
       MiddleCharacter.Middle
-      LostWithout.LostWithout
       HighestScoringWord.Highest
       Barycenter.Barycenter
       ReplaceAllItems.Replace
-      ReverseList.ReverseRecursively
       Watermelon.Watermelon
+      ToLeetSpeak.ToLeetSpeak
+      MiddleElement.Find
+      SumOddCubes.Sum
+      ExclamationMarks.RemoveEnd
+      WhatsUpNext.LazyNext
+      Grasshopper.NameCombiner
+      OddNumbers.Sum
+      LostWithout.LostWithout
+      ReverseList.ReverseRecursively
+      Shortcut.Shortcut
       SumRecursively.Sum
       BoundlessSum.Sum
       HighestAndLowest.Hal
