@@ -14,10 +14,14 @@ Executable Codewars
       containers -any,
       split -any
   other-modules:
+      Odds.Odds
+      VowelCount.Vowels
       CountingDuplicates.Dupes
       Fibonacci.Fib
+      IsItWhitespace.IsItWhitespace
       ShortestWord.Shortest
       TwiceLinear.Twice
+      AverageCalculator.AverageCalculator
       UnfinishedLoop.Loop
       PartialWordSearching.Partial
       MakeLower.MakeLower
@@ -27,6 +31,7 @@ Executable Codewars
       Barycenter.Barycenter
       ReplaceAllItems.Replace
       Watermelon.Watermelon
+      Last.Last
       ToLeetSpeak.ToLeetSpeak
       MiddleElement.Find
       SumOddCubes.Sum
@@ -40,5 +45,5 @@ Executable Codewars
       Shortcut.Shortcut
       SumRecursively.Sum
       BoundlessSum.Sum
+      Plural.Plural
       HighestAndLowest.Hal
-      VowelCount.Vowels
