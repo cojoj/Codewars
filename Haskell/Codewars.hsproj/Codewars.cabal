@@ -24,6 +24,8 @@ Executable Codewars
       Odds
       Watermelon
       SumRecursively
+      ParseFloat
+      IsOpposite
       UnfinishedLoop
       SumOddCubes
       Dupes
@@ -32,8 +34,9 @@ Executable Codewars
       MakeLower
       AverageCalculator
       AppleTurnover
-      VowelCount
+      ReverseListOrder
       Sum
+      VowelCount
       Middle
       RelativePrimes
       RemoveEnd
