@@ -11,15 +11,19 @@ Executable Codewars
   buildable: True
   build-depends:
       base -any,
-      containers -any,
-      split -any
+      split -any,
+      containers -any
   other-modules:
       Barycenter
       LazyNext
-      TwiceLinear
+      HelloValidator
+      Supersize
+      RPG
       Multiply
       Partial
       ReplaceAllItems
+      TwiceLinear
+      BinToDecimal
       Last
       Odds
       Watermelon
@@ -36,7 +40,9 @@ Executable Codewars
       AppleTurnover
       ReverseListOrder
       Sum
+      RemoveDuplicates
       VowelCount
+      If
       Middle
       RelativePrimes
       RemoveEnd
