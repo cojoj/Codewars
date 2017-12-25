@@ -32,6 +32,7 @@ Executable Codewars
       ParseFloat
       IsOpposite
       UnfinishedLoop
+      IsUpperCase
       SumOddCubes
       Dupes
       IsItWhitespace
@@ -49,6 +50,7 @@ Executable Codewars
       RemoveEnd
       Fib
       Hal
+      HexToDecimal
       Plural
       Find
       Shortest

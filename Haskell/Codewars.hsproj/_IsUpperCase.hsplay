@@ -1,0 +1,5 @@
+-- Haskell Playground 1.0
+isUpperCase "C"
+isUpperCase "ACSKLDFJSgSKLDFJSKLDFJ"
+isUpperCase "BOB WALKs HIS DOG EVERY DAY."
+isUpperCase "BOB WALKS HIS DOG EVERY DAY"

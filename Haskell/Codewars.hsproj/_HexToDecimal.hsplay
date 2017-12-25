@@ -1,0 +1,4 @@
+-- Haskell Playground 1.0
+showIntAtBase 16 intToDigit (read "1" :: Int) ""
+
+read "12" :: Int
